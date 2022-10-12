@@ -2,9 +2,9 @@
 Multiple Math Operation Using C.
 
 Included Operations:-
-11.Odd/Even 
-2.Postive/Negative 
-3.Square of numbers
-4.Square root of number 
+1.Odd/Even <br>
+2.Postive/Negative <br>
+3.Square of numbers<br>
+4.Square root of number <br>
 
 There may be bugs. 
