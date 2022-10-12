@@ -52,7 +52,7 @@ int main()
     printf("Enter any number: \n");
     scanf("%lf",&d);
     
-    printf("Square root is %lf",sqrt(d));
+    printf("Square root is %lf \n",sqrt(d));
     
     
 }
